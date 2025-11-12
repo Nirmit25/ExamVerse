@@ -52,34 +52,6 @@ StudyMate AI is a full-stack web application designed to help students focus, or
 - Node.js 18+ installed
 - npm or yarn package manager
 
-### Installation & Setup
-
-```bash
-# 1. Install dependencies
-npm install
-
-# 2. Configure environment variables
-# Create a .env file with:
-VITE_SUPABASE_PROJECT_ID=your_project_id
-VITE_SUPABASE_PUBLISHABLE_KEY=your_publishable_key
-VITE_SUPABASE_URL=your_supabase_url
-
-# 3. Start development server
-npm run dev
-
-# 4. Open in browser
-# Local: http://localhost:8080/
-# Network: http://172.20.10.3:8080/
-```
-
-### Available Commands
-
-```bash
-npm run dev      # Start dev server (port 8080)
-npm run build    # Build for production
-npm run preview  # Preview production build
-npm run lint     # Run ESLint
-```
 
 ---
 
